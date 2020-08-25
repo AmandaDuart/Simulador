@@ -4,4 +4,5 @@
 3. Sobreposição
 4. Listas aninhadas
 5. Exceções:
+Descrição
 Simulador simplificado para calcular a força de uma doença, depois de ter sido plantada em um mundo virtual, e a força acumulada de todas as doenças neste mundo.
